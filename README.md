@@ -206,16 +206,3 @@ The system is divided into three main sections:
 * **Abdur Rehman**
 * **Roma Manahil**
 
----
-
-## 📅 Submission
-
-**Course:** Object Oriented Programming
-**Department:** Computer & Software Engineering
-**Submission Date:** 14 May 2025
-
----
-
-
-
-Just tell me 👍
